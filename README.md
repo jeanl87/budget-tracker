@@ -1,5 +1,7 @@
 # Budget-Tracker
 
+With the use of Progressive Web Application (PWA) a user would be able to track expenses and budget while being on and offline.
+
 ## User Story
 
 AS AN avid traveller
